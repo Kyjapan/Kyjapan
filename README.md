@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kodai
+- 👋 Hi, I’m @Kyjapan
 - 👀 I’m interested in WebApplication, ArtificalIntelligence.
 - 🌱 I’m currently learning Python, PHP.
 - 💞️ I’m looking to collaborate on ...
